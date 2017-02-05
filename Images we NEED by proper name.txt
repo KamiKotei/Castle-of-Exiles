@@ -1,0 +1,24 @@
+######IMAGES WE NEED BY PROPER NAME######
+
+IMAGES FOR AIRSHIPS:
+
+airship archetypes:
+
+archetype_corvette_airship_equipment
+archetype_frigate_airship_equipment
+archetype_destroyer_airship_equipment
+archetype_cruiser_airship_equipment
+archetype_battlecruiser_airship_equipment
+archetype_battleship_airship_equipment
+archetype_behemoth_airship_equipment
+
+
+airship pictures:
+
+corvette
+frigate
+destroyer
+cruiser
+battlecruiser
+battleship
+gargant/behemoth/battle hulk?????

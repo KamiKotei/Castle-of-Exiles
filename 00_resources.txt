@@ -1,11 +1,12 @@
 resources = {
-
+	#WIP
+	
 	oil = {
 		icon_frame = 1
 		cic = 0.125
 		convoys = 0.1
 	}
-
+	
 	aluminium = {
 		icon_frame = 2
 		cic = 0.125
